@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cae865d3-f551-4a86-b452-67514f1a0dfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Dz201/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz201/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz201/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz201/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz201/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz201/Dz201.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz201/src/com/gmail/morkovnik/maxim/Dz201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz202/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz202/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz202/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz202/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz202/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz202/Dz202.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz202/src/com/gmail/morkovnik/maxim/Dz202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz203/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz203/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz203/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz203/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz203/Dz203.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz203/src/com/gmail/morkovnik/maxim/Dz203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz204/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz204/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz204/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz204/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz204/Dz204.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz204/src/com/gmail/morkovnik/maxim/Dz204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz205/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz205/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz205/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz205/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz205/Dz205.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz205/src/com/gmail/morkovnik/maxim/Dz205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz206/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz206/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz206/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz206/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz206/Dz206.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz206/src/com/gmail/morkovnik/maxim/Dz206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz207/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz207/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz207/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz207/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz207/Dz207.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz207/src/com/gmail/morkovnik/maxim/Dz207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz208/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz208/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz208/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz208/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz208/Dz208.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz208/src/com/gmail/morkovnik/maxim/Dz208.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz301/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz301/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz301/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz301/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz301/Dz301.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz301/src/com/gmail/morkovnik/maxim/Dz301.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz302/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz302/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz302/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz302/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz302/Dz302.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz302/src/com/gmail/morkovnik/maxim/Dz302.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz303/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz303/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz303/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz303/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz303/Dz303.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz303/src/com/gmail/morkovnik/maxim/Dz303.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz304/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz304/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz304/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz304/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz304/Dz304.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz304/src/com/gmail/morkovnik/maxim/Dz304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz305/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz305/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz305/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz305/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz305/Dz305.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz305/src/com/gmail/morkovnik/maxim/Dz305.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz306/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz306/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz306/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz306/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz306/Dz306.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz306/src/com/gmail/morkovnik/maxim/Dz306.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz307/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz307/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz307/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz307/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz307/Dz307.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz307/src/com/gmail/morkovnik/maxim/Dz307.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz401/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz401/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz401/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz401/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz401/Dz401.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz401/src/com/gmail/morkovnik/maxim/Dz401.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz402/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz402/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz402/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz402/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz402/Dz402.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz402/src/com/gmail/morkovnik/maxim/Dz402.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz403/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz403/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz403/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz403/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz403/Dz403.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz403/src/com/gmail/morkovnik/maxim/Dz403.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz404/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz404/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz404/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz404/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz404/Dz404.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz404/src/com/gmail/morkovnik/maxim/Dz404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz405/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz405/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz405/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz405/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz405/Dz405.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz405/src/com/gmail/morkovnik/maxim/Dz405.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz406/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz406/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz406/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz406/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz406/Dz406.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz406/src/com/gmail/morkovnik/maxim/Dz406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz407/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz407/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz407/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz407/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz407/Dz407.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz407/src/com/gmail/morkovnik/maxim/Dz407.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz501/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz501/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz501/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz501/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz501/Dz501.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz501/src/com/gmail/morkovnik/maxim/Dz501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz502/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz502/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz502/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz502/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz502/Dz502.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz502/src/com/gmail/morkovnik/maxim/Dz502.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz503/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz503/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz503/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz503/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz503/Dz503.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz503/src/com/gmail/morkovnik/maxim/Dz503.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz504/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz504/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz504/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz504/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz504/Dz504.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz504/src/com/gmail/morkovnik/maxim/Dz504.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz505/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz505/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz505/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz505/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz505/Dz505.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz505/src/com/gmail/morkovnik/maxim/Dz505.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz506/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz506/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz506/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz506/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz506/Dz506.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz506/src/com/gmail/morkovnik/maxim/Dz506.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz507/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz507/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz507/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz507/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz507/Dz507.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz507/src/com/gmail/morkovnik/maxim/Dz507.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz508/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz508/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz508/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz508/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz508/Dz508.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz508/src/com/gmail/morkovnik/maxim/Dz508.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz601/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz601/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz601/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz601/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz601/Dz601.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz601/src/com/gmail/morkovnik/maxim/Dz601.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz602/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz602/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz602/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz602/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz602/Dz602.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz602/src/com/gmail/morkovnik/maxim/Dz602.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz603/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz603/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz603/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz603/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz603/Dz603.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz603/src/com/gmail/morkovnik/maxim/Dz603.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz604/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz604/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz604/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz604/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz604/Dz604.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz604/src/com/gmail/morkovnik/maxim/Dz604.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz605/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz605/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz605/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz605/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz605/Dz605.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz605/src/com/gmail/morkovnik/maxim/Dz605.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz606/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz606/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz606/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz606/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz606/Dz606.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz606/src/com/gmail/morkovnik/maxim/Dz606.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz607/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz607/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz607/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz607/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz607/Dz607.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz607/src/com/gmail/morkovnik/maxim/Dz607.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz701/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz701/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz701/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz701/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz701/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz701/Dz701.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz701/src/com/gmail/morkovnik/maxim/Dz701.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz702/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz702/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz702/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz702/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz702/Dz702.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dz702/src/com/gmail/morkovnik/maxim/Dz702.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dz703.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/gmail/morkovnik/maxim/Dz703.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dz103/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dz103/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/gmail/morkovnik/maxim/Dz703.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/gmail/morkovnik/maxim/Dz703.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="25" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dz703" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dz703" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dz703" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dz703" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578344585667" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cae865d3-f551-4a86-b452-67514f1a0dfb" name="Default Changelist" comment="" />
+      <created>1578344513213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578344513213</updated>
+      <workItem from="1578344515667" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="90000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/gmail/morkovnik/maxim/Dz703.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Dz703</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
