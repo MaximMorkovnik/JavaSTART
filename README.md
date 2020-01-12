@@ -112,8 +112,8 @@
          Выведите на экран прямоугольник из *. Причем высота и ширина прямоугольника вводятся с клавиатуры. <br>
          Например ниже представлен прямоугольник с высотой 4 и шириной 5.<br>
          *****<br>
-         *      *<br>
-         *      *<br>
+         *       <li>*<br>
+         *       *<br>
          *****<br>
             </a>
         </li>
@@ -140,9 +140,9 @@
             <a href="/Dz307/src/com/gmail/morkovnik/maxim/Dz307.java">
          Выведите на экран «песочные часы» максимальная ширина которых считывается с клавиатуры (число нечетное). В примере ширина равна 5.<br>
 	 *****<br>
-	  ***<br>
-	   *<br>
-	  ***<br>
+	 <li>***<br>
+	 <li><li>*<br>
+	 <li>***<br>
 	 *****<br>
             </a>
         </li>
@@ -387,5 +387,5 @@
 
 [**Java OOP ->**](https://github.com/MaximMorkovnik/JavaOOP)
 
-[_**Maxim Morkovnik**_](https://www.linkedin.com/in/mmorkovnik)<br>
-[maxim.morkovnik@gmail.com](mailto:maxim.morkovnik@gmail.com)
+[_**Maxim Morkovnik**_](https://www.linkedin.com/in/mmorkovnik)<br>(
+[maxim.morkovnik@gmail.com](mailto:maxim.morkovnik@gmail.com))
