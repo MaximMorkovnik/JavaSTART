@@ -387,5 +387,5 @@
 
 [**Java OOP ->**](https://github.com/MaximMorkovnik/JavaOOP)
 
-[_**Maxim Morkovnik**_](https://www.linkedin.com/in/mmorkovnik)<br>(
-[maxim.morkovnik@gmail.com](mailto:maxim.morkovnik@gmail.com))
+[_**Maxim Morkovnik**_](https://www.linkedin.com/in/mmorkovnik)<br>
+([maxim.morkovnik@gmail.com](mailto:maxim.morkovnik@gmail.com))
