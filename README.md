@@ -5,7 +5,7 @@
 [**Java OOP ->**](https://github.com/MaximMorkovnik/JavaOOP)
 
 <ol>
-<li><strong>Занятие 1 (ПЕРЕМЕННЫЕ, ОПЕРАТОРЫ)</strong>
+<li><strong>Занятие 1 (ПЕРЕМЕННЫЕ, ОПЕРАТОРЫ_64_)</strong>
     <ul>
         <li> 1.1<br>
             <a href="/Dz101/src/com/gmail/morkovnik/maxim/Dz101.java">
@@ -25,7 +25,7 @@
         </li>
     </ul>
 </li>
-<li><strong>Занятие 2 (УСЛОВНЫЕ ОПЕРАТОРЫ)</strong>
+<li><strong>Занятие 2 (УСЛОВНЫЕ ОПЕРАТОРЫ_92-93_)</strong>
     <ul>
         <li> 2.1<br>
             <a href="/Dz201/src/com/gmail/morkovnik/maxim/Dz201.java">
@@ -84,7 +84,7 @@
         </li>
     </ul>
 </li>
-<li><strong>Занятие 3 (ЦИКЛЫ)</strong>
+<li><strong>Занятие 3 (ЦИКЛЫ_126-127_)</strong>
     <ul>
         <li> 3.1<br>
             <a href="/Dz301/src/com/gmail/morkovnik/maxim/Dz301.java">
@@ -148,7 +148,7 @@
         </li>
     </ul>
 </li>
-<li><strong>Занятие 4 (СТРОКИ И МАССИВЫ)</strong>
+<li><strong>Занятие 4 (СТРОКИ И МАССИВЫ_153-154_)</strong>
     <ul>
         <li> 4.1<br>
             <a href="/Dz401/src/com/gmail/morkovnik/maxim/Dz401.java">
@@ -222,7 +222,7 @@
        </li>
     </ul>
 </li>
-<li><strong>Занятие 5 (МЕТОДЫ)</strong>
+<li><strong>Занятие 5 (МЕТОДЫ_176-177_)</strong>
     <ul>
         <li> 5.1<br>
             <a href="/Dz501/src/com/gmail/morkovnik/maxim/Dz501.java">
@@ -283,7 +283,7 @@
        </li>
     </ul>
 </li>
-<li><strong>Занятие 6 (ЭЛЕМЕНТЫ СТАНДАРТНОЙ БИБЛИОТЕКИ)</strong>
+<li><strong>Занятие 6 (ЭЛЕМЕНТЫ СТАНДАРТНОЙ БИБЛИОТЕКИ_208-209_)</strong>
     <ul>
         <li> 6.1<br>
             <a href="/Dz601/src/com/gmail/morkovnik/maxim/Dz601.java">
@@ -338,7 +338,7 @@
        </li>
    </ul>
 </li>
-<li><strong>Занятие 7 (РАБОТА С ФАЙЛАМИ)</strong>
+<li><strong>Занятие 7 (РАБОТА С ФАЙЛАМИ_225-226_)</strong>
     <ul>
         <li> 7.1<br>
             <a href="/Dz701/src/com/gmail/morkovnik/maxim/Dz701.java">
