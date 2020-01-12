@@ -5,7 +5,7 @@
 [**Java OOP ->**](https://github.com/MaximMorkovnik/JavaOOP)
 
 <ol>
-<li><strong>Занятие 1</strong>
+<li><strong>Занятие 1 (ПЕРЕМЕННЫЕ, ОПЕРАТОРЫ)</strong>
     <ul>
         <li> 1.1<br>
             <a href="/Dz101/src/com/gmail/morkovnik/maxim/Dz101.java">
@@ -25,7 +25,7 @@
         </li>
     </ul>
 </li>
-<li><strong>Занятие 2</strong>
+<li><strong>Занятие 2 (УСЛОВНЫЕ ОПЕРАТОРЫ)</strong>
     <ul>
         <li> 2.1<br>
             <a href="/Dz201/src/com/gmail/morkovnik/maxim/Dz201.java">
@@ -84,7 +84,7 @@
         </li>
     </ul>
 </li>
-<li><strong>Занятие 3</strong>
+<li><strong>Занятие 3 (ЦИКЛЫ)</strong>
     <ul>
         <li> 3.1<br>
             <a href="/Dz301/src/com/gmail/morkovnik/maxim/Dz301.java">
@@ -112,8 +112,8 @@
          Выведите на экран прямоугольник из *. Причем высота и ширина прямоугольника вводятся с клавиатуры. <br>
          Например ниже представлен прямоугольник с высотой 4 и шириной 5.<br>
          *****<br>
-         *   *<br>
-         *   *<br>
+         *      *<br>
+         *      *<br>
          *****<br>
             </a>
         </li>
@@ -140,15 +140,15 @@
             <a href="/Dz307/src/com/gmail/morkovnik/maxim/Dz307.java">
          Выведите на экран «песочные часы» максимальная ширина которых считывается с клавиатуры (число нечетное). В примере ширина равна 5.<br>
 	 *****<br>
-	 ***<br>
-	 *<br>
-	 ***<br>
+	  ***<br>
+	   *<br>
+	  ***<br>
 	 *****<br>
             </a>
         </li>
     </ul>
 </li>
-<li><strong>Занятие 4</strong>
+<li><strong>Занятие 4 (СТРОКИ И МАССИВЫ)</strong>
     <ul>
         <li> 4.1<br>
             <a href="/Dz401/src/com/gmail/morkovnik/maxim/Dz401.java">
@@ -222,7 +222,7 @@
        </li>
     </ul>
 </li>
-<li><strong>Занятие 5</strong>
+<li><strong>Занятие 5 (МЕТОДЫ)</strong>
     <ul>
         <li> 5.1<br>
             <a href="/Dz501/src/com/gmail/morkovnik/maxim/Dz501.java">
@@ -283,7 +283,7 @@
        </li>
     </ul>
 </li>
-<li><strong>Занятие 6</strong>
+<li><strong>Занятие 6 (ЭЛЕМЕНТЫ СТАНДАРТНОЙ БИБЛИОТЕКИ)</strong>
     <ul>
         <li> 6.1<br>
             <a href="/Dz601/src/com/gmail/morkovnik/maxim/Dz601.java">
@@ -338,7 +338,7 @@
        </li>
    </ul>
 </li>
-<li><strong>Занятие 7</strong>
+<li><strong>Занятие 7 (РАБОТА С ФАЙЛАМИ)</strong>
     <ul>
         <li> 7.1<br>
             <a href="/Dz701/src/com/gmail/morkovnik/maxim/Dz701.java">
