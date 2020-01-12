@@ -1,3 +1,6 @@
+/*
+ * Написать свой вариант метода Arrays.toString() для int[].
+ */
 package com.gmail.morkovnik.maxim;
 
 public class Dz602 {

@@ -1,3 +1,6 @@
+/*
+ * Напишите метод который вернет количество слов в строке текста.
+ */
 package com.gmail.morkovnik.maxim;
 
 import java.util.*;

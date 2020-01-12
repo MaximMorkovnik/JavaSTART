@@ -1,3 +1,7 @@
+/*
+ * Напишите метод который вернет максимальное число
+ * из массива целых чисел.
+ */
 package com.gmail.morkovnik.maxim;
 
 public class Dz501 {

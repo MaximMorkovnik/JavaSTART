@@ -1,3 +1,7 @@
+/*
+ * Программа, которая считывает 5-и значное число с клавиатуры и выводит цифры
+ * из которого оно состоит
+ */
 package com.gmail.morkovnik.maxim;
 
 import java.util.Scanner;

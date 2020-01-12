@@ -1,3 +1,7 @@
+/*
+ * Напишите метод для сохранения в текстовый файл
+ * двухмерного массива целых чисел.
+ */
 package com.gmail.morkovnik.maxim;
 
 import java.io.File;

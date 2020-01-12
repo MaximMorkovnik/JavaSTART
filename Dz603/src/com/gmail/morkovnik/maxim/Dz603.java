@@ -1,3 +1,7 @@
+/*
+ * Ввести с консоли число в бинарном формате. Перевести его в
+ * десятичный и вывести на экран (“10” -> 2).
+ */
 package com.gmail.morkovnik.maxim;
 
 import java.util.Scanner;

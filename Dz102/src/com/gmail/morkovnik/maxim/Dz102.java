@@ -1,3 +1,7 @@
+/*
+ * Программа, которая вычислит и выведет на экран площадь треугольника если
+ * известны его стороны
+ */
 package com.gmail.morkovnik.maxim;
 
 import java.util.Scanner;
